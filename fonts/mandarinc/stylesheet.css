@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'MandarinC';
+	src: url('MandarinC.eot');
+	src: url('MandarinC.eot?#iefix') format('embedded-opentype'),
+		url('MandarinC.woff2') format('woff2'),
+		url('MandarinC.woff') format('woff'),
+		url('MandarinC.ttf') format('truetype'),
+		url('MandarinC.svg#MandarinC') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
